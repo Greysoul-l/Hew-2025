@@ -1,0 +1,12 @@
+
+.vs/
+*.vsidx
+*.suo
+
+# Build Output
+Debug/
+Release/
+x64/
+*.exe
+*.dll
+*.obj
