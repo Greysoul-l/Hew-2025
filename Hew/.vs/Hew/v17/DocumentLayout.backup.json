@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\lvphu\\source\\repos\\Hew-2025\\Hew\\",
   "Documents": [
     {
@@ -8,15 +7,10 @@
       "RelativeMoniker": "D:0:0:{C3A34A21-1678-4116-A4D6-C39713A20F35}|Hew\\Hew.vcxproj|solutionrelative:Hew\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
-=======
-  "WorkspaceRootPath": "D:\\HEW Code\\Hew\\",
-  "Documents": [],
->>>>>>> Stashed changes
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< Updated upstream
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -38,9 +32,6 @@
           ]
         }
       ]
-=======
-      "DocumentGroups": []
->>>>>>> Stashed changes
     }
   ]
 }
